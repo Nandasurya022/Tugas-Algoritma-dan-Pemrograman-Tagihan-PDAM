@@ -1,0 +1,43 @@
+ ===========================================================
+                  BUKTI PEMBAYARAN TAGIHAN AIR
+ ===========================================================
+ Tanggal Pembayaran         : 12
+ Nomor Rekening Air         : 123
+ Golongan Pelanggan         : D1-1
+ Nama Pelanggan             : Nanda
+ Total Penggunaan Air (m3)  : 3
+ Tarif Air per (m3)         : Rp.1780
+ Biaya BPM                  : Rp.5000
+ Biaya admin                : Rp.2500
+ ___________________________________________________________
+ Total Tagihan Air          : Rp.12840 
+
+ ===========================================================
+                  BUKTI PEMBAYARAN TAGIHAN AIR
+ ===========================================================
+ Tanggal Pembayaran         : 19
+ Nomor Rekening Air         : 456
+ Golongan Pelanggan         : D1-1
+ Nama Pelanggan             : Surya
+ Total Penggunaan Air (m3)  : 15
+ Tarif Air per (m3)         : Rp.2060
+ Biaya BPM                  : Rp.5000
+ Biaya admin                : Rp.2500
+ ___________________________________________________________
+ Total Tagihan Air          : Rp.38400 
+
+ ===========================================================
+                  BUKTI PEMBAYARAN TAGIHAN AIR
+ ===========================================================
+ Tanggal Pembayaran         : 25
+ Nomor Rekening Air         : 789
+ Golongan Pelanggan         : D1-1
+ Nama Pelanggan             : Agusta
+ Total Penggunaan Air (m3)  : 5
+ Tarif Air per (m3)         : Rp.1780
+ Biaya BPM                  : Rp.5000
+ Biaya admin                : Rp.2500
+ Biaya denda                : Rp.10000
+ ___________________________________________________________
+ Total Tagihan Air          : Rp.26400 
+
